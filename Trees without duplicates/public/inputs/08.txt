@@ -1,0 +1,48 @@
+$ cd /
+$ ls
+(d)dir1 (f)file1
+$ cd dir1
+$ ls
+(d)dir1 (f)file1
+$ cd dir1
+$ ls
+(d)dir1 (f)file1
+$ cd dir1
+$ ls
+(d)dir1 (f)file1
+$ cd dir1
+$ ls
+(d)dir1 (f)file1
+$ cd dir1
+$ ls
+(d)dir1 (f)file1
+$ cd dir1
+$ ls
+(d)dir1 (f)file1
+$ cd dir1
+$ ls
+(d)dir1 (f)file1
+$ cd dir1
+$ ls
+(d)dir1 (f)file1
+$ cd dir1
+$ ls
+(d)dir1 (f)file1
+$ cd dir1
+$ ls
+(d)dir1 (f)file1
+$ cd dir1
+$ ls
+(d)dir1 (f)file1
+$ cd dir1
+$ ls
+(d)dir1 (f)file1
+$ cd dir1
+$ ls
+(d)dir1 (f)file1
+$ cd dir1
+$ ls
+(d)dir1 (f)file1
+$ cd dir1
+$ ls
+(d)dir1 (f)file1

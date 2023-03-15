@@ -1,0 +1,21 @@
+$ cd /
+$ ls
+(d)dir1 (f)file2
+$ cd dir1
+$ ls
+(d)dir2
+$ cd dir2
+$ ls
+(d)dir3 (f)file1
+$ cd dir3
+$ ls
+(d)dir4 (d)dir5 (f)file2
+$ cd dir4
+$ ls
+(f)file1 (f)file2
+$ cd ..
+$ cd dir5
+$ ls
+(f)file1 (f)file2
+$ ls
+(f)file1 (f)file2

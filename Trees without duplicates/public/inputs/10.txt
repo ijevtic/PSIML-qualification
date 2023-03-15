@@ -1,0 +1,5 @@
+$ cd /
+$ ls
+(d)dir_1 (d)dir_2
+$ cd dir_2
+$ ls

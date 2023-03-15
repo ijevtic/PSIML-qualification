@@ -1,0 +1,10 @@
+2
+2
+/
+|-PSIML/
+|-|-PSIML/
+|-|-|-?
+|-|-PSIML
+|-PSIML
+$ cd /
+$ rm PSIML

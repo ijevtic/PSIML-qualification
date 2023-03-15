@@ -1,0 +1,4 @@
+$ cd /
+$ cd dir1
+$ ls
+(d)dir1 (f)file1

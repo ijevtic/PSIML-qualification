@@ -1,0 +1,23 @@
+$ cd /
+$ ls
+(d)dir1 (d)dir2 (d)dir3
+$ ls
+(d)dir1 (d)dir2 (d)dir3
+$ ls
+(d)dir1 (d)dir2 (d)dir3
+$ ls
+(d)dir1 (d)dir2 (d)dir3
+$ ls
+(d)dir1 (d)dir2 (d)dir3
+$ ls
+(d)dir1 (d)dir2 (d)dir3
+$ ls
+(d)dir1 (d)dir2 (d)dir3
+$ ls
+(d)dir1 (d)dir2 (d)dir3
+$ ls
+(d)dir1 (d)dir2 (d)dir3
+$ ls
+(d)dir1 (d)dir2 (d)dir3
+$ ls
+(d)dir1 (d)dir2 (d)dir3

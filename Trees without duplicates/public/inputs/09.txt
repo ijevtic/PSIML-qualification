@@ -1,0 +1,32 @@
+$ cd /
+$ cd 1
+$ cd 2
+$ cd 3
+$ cd 4
+$ cd 5
+$ cd 6
+$ cd ..
+$ cd ..
+$ cd 5
+$ cd 6
+$ cd 7
+$ cd 8
+$ cd ..
+$ cd ..
+$ cd 7
+$ cd 8
+$ ls
+(f)9 (d)9 (d).9
+$ cd .9
+$ cd ..
+$ cd .9
+$ cd .9.10
+$ ls
+(d)0 (f)_ (d). (f)9 (d)9
+$ cd ..
+$ cd ..
+$ ls
+(f)9 (d)9 (d).9
+$ cd /
+$ ls
+(d)1 (f)9

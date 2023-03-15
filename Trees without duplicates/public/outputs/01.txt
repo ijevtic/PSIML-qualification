@@ -1,0 +1,20 @@
+5
+5
+/
+|-dir1/
+|-|-file1
+|-dir2/
+|-|-dir3/
+|-|-|-dir4/
+|-|-|-|-?
+|-|-|-dir5/
+|-|-|-file1
+|-|-file3
+|-file1
+|-file2
+$ cd /
+$ cd dir2
+$ cd dir3
+$ rm file1
+$ cd /
+$ rm file1

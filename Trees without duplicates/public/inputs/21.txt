@@ -1,0 +1,158 @@
+$ cd /
+$ ls
+(d)5333ee9e (f)ab625a18.txt (f)b10a010a.txt (d)faa31eae (d)cafdde32 (f)a6f6a706.txt
+$ cd 5333ee9e
+$ ls
+(d)275deb8a (f)a0b7a999.txt (f)a1f1bc10.txt (d)3f68c212 (d)453ff839 (f)e1be356b.txt
+$ cd 275deb8a
+$ ls
+(f)3bb2ca09.txt (f)1af96503.txt (f)552b9a58.txt (d)83ea09aa (d)1f633b2b (d)19f9cc1a
+$ cd 83ea09aa
+$ ls
+
+$ cd ..
+$ cd 1f633b2b
+$ ls
+
+$ cd ..
+$ cd 19f9cc1a
+$ ls
+
+$ cd ..
+$ cd ..
+$ cd 3f68c212
+$ ls
+(d)79f5b36f (d)ba246920 (f)66c9a768.txt (f)b83eeb03.txt (f)52cfe373.txt (d)04a95b7c
+$ cd 79f5b36f
+$ ls
+
+$ cd ..
+$ cd ba246920
+$ ls
+
+$ cd ..
+$ cd 04a95b7c
+$ ls
+
+$ cd ..
+$ cd ..
+$ cd 453ff839
+$ ls
+(d)0b70f746 (f)3d523565.txt (f)f8309295.txt (f)d7b02ea8.txt (d)415f042f (d)9166c312
+$ cd 0b70f746
+$ ls
+
+$ cd ..
+$ cd 415f042f
+$ ls
+
+$ cd ..
+$ cd 9166c312
+$ ls
+
+$ cd ..
+$ cd ..
+$ cd ..
+$ cd faa31eae
+$ ls
+(d)cb63ae34 (d)fe623cc2 (f)5ba31612.txt (f)e3c69734.txt (f)726a29cd.txt (d)d1ff1987
+$ cd cb63ae34
+$ ls
+(d)57096bb9 (d)5c003912 (f)74d1fa4e.txt (d)4fadde73 (f)04659ed3.txt (f)62070615.txt
+$ cd 57096bb9
+$ ls
+
+$ cd ..
+$ cd 5c003912
+$ ls
+
+$ cd ..
+$ cd 4fadde73
+$ ls
+
+$ cd ..
+$ cd ..
+$ cd fe623cc2
+$ ls
+(d)2e73c1ea (f)9a5a74dd.txt (d)e4fef2d7 (f)15fecb10.txt (d)bad0a950 (f)0772612a.txt
+$ cd 2e73c1ea
+$ ls
+
+$ cd ..
+$ cd e4fef2d7
+$ ls
+
+$ cd ..
+$ cd bad0a950
+$ ls
+
+$ cd ..
+$ cd ..
+$ cd d1ff1987
+$ ls
+(f)34bf88ea.txt (f)cb510cbb.txt (f)34da4c74.txt (d)1d375131 (d)ceebdb33 (d)116b50ca
+$ cd 1d375131
+$ ls
+
+$ cd ..
+$ cd ceebdb33
+$ ls
+
+$ cd ..
+$ cd 116b50ca
+$ ls
+
+$ cd ..
+$ cd ..
+$ cd ..
+$ cd cafdde32
+$ ls
+(d)54317c98 (d)f79aa7f8 (f)395fa36a.txt (f)eba7ec52.txt (d)e337662c (f)7121db12.txt
+$ cd 54317c98
+$ ls
+(f)cf9c10d8.txt (f)494c7d01.txt (d)b5ca2590 (d)af78500d (f)e3f599cb.txt (d)0bffa74a
+$ cd b5ca2590
+$ ls
+
+$ cd ..
+$ cd af78500d
+$ ls
+
+$ cd ..
+$ cd 0bffa74a
+$ ls
+
+$ cd ..
+$ cd ..
+$ cd f79aa7f8
+$ ls
+(d)1c4acd53 (d)08917ad2 (f)8b14f32d.txt (f)24fbb0c4.txt (f)caa014c5.txt (d)52fe5cf5
+$ cd 1c4acd53
+$ ls
+
+$ cd ..
+$ cd 08917ad2
+$ ls
+
+$ cd ..
+$ cd 52fe5cf5
+$ ls
+
+$ cd ..
+$ cd ..
+$ cd e337662c
+$ ls
+(d)e91b7185 (d)a4572bd8 (f)2c1d8fdb.txt (f)478c9df2.txt (d)c74b2d96 (f)e9ff30eb.txt
+$ cd e91b7185
+$ ls
+
+$ cd ..
+$ cd a4572bd8
+$ ls
+
+$ cd ..
+$ cd c74b2d96
+$ ls
+
+$ cd ..
+$ cd ..

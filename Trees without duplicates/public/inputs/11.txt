@@ -1,0 +1,6 @@
+$ cd /
+$ ls
+(d)PSIML (f)PSIML
+$ cd PSIML
+$ ls
+(f)PSIML (d)PSIML

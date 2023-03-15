@@ -1,0 +1,25 @@
+$ cd /
+$ ls
+(d)dir (f)file
+$ ls
+(d)dir (f)file
+$ ls
+(d)dir (f)file
+$ ls
+(d)dir (f)file
+$ ls
+(d)dir (f)file
+$ ls
+(d)dir (f)file
+$ ls
+(d)dir (f)file
+$ ls
+(d)dir (f)file
+$ ls
+(d)dir (f)file
+$ ls
+(d)dir (f)file
+$ ls
+(d)dir (f)file
+$ ls
+(d)dir (f)file

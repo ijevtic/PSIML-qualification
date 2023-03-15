@@ -1,0 +1,13 @@
+$ cd /
+$ cd dir1
+$ cd dir2
+$ cd dir3
+$ cd dir4
+$ cd dir5
+$ cd dir1
+$ cd dir2
+$ ls
+(d)dir3 (f)file3.txt
+$ cd /
+$ ls
+(d)dir1 (f)file3.txt (f)file3.tx (f)ile3.txt (f)file1.txt (f)FILE3.TXT

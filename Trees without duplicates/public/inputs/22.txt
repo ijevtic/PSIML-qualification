@@ -1,0 +1,186 @@
+$ cd /
+$ ls
+(f)0a7e98e9.txt (f)30b57687.txt (d)3b532750 (d)6b945a0e (f)746e2018.txt (d)c935d87e
+$ cd 3b532750
+$ ls
+(f)1af06b91.txt (d)662fa6e7 (d)e005abef (f)1b7ad3c8.txt (f)29183bf8.txt (d)06a1b7fe
+$ cd 662fa6e7
+$ ls
+(f)2ec91fa6.txt (d)84364309 (f)c00f2870.txt (d)f541151e (d)e96b4f6d (f)2957d908.txt
+$ cd 84364309
+$ ls
+(f)5e6ca149.txt (d)f3e65c45 (d)774e1831 (f)1c466fdf.txt (f)bbe9a348.txt (d)68ff54c6
+$ cd 774e1831
+$ ls
+(f)92babe48.txt (d)ea28cfbc (f)1ee8c2e1.txt (d)2a21d011 (d)7b34ff9b (f)c7ac049d.txt
+$ cd ea28cfbc
+$ ls
+(f)2957d908.txt
+$ cd ..
+$ cd 2a21d011
+$ ls
+
+$ cd ..
+$ cd ..
+$ cd ..
+$ cd ..
+$ cd e005abef
+$ ls
+(f)98486c5e.txt (d)02291c3e (f)cb603028.txt (d)4eb090be (d)c869f5fc (f)c269aa15.txt
+$ cd 02291c3e
+$ ls
+(d)72f91f12 (d)2d1d6ecd (f)7412d00a.txt (d)73a51dc7 (f)54235631.txt (f)cea47f0a.txt
+$ cd 72f91f12
+$ ls
+(f)bd9728f5.txt (d)69f7b58c (f)d3e867e5.txt (d)22c86dbd (d)0c3277cd (f)6965501e.txt
+$ cd 0c3277cd
+$ ls
+
+$ cd ..
+$ cd ..
+$ cd 2d1d6ecd
+$ ls
+(d)13ef3187 (f)2194760f.txt (f)aa7edf45.txt (d)09d8c5ba (d)824bf4ee (f)8680c90b.txt
+$ cd 13ef3187
+$ ls
+
+$ cd ..
+$ cd 09d8c5ba
+$ ls
+
+$ cd ..
+$ cd 824bf4ee
+$ ls
+
+$ cd ..
+$ cd ..
+$ cd 73a51dc7
+$ ls
+(d)0fb02b4a (f)3c4221c7.txt (d)709dd40d (f)51a119e3.txt (f)76799998.txt (d)b53fd797
+$ cd 0fb02b4a
+$ ls
+
+$ cd ..
+$ cd b53fd797
+$ ls
+
+$ cd ..
+$ cd ..
+$ cd ..
+$ cd 4eb090be
+$ cd ..
+$ cd c869f5fc
+$ ls
+(f)6ca0c459.txt (d)802def64 (d)84f9838a (d)3c8ade70 (f)cb603028.txt (f)a8e81660.txt (f)b407d5e4.txt
+$ cd 802def64
+$ ls
+(f)3dd5f3f4.txt (d)3a0a8cbd (f)af47ab31.txt (d)0bb6de2b (f)6ab610f7.txt (d)4983cacd
+$ cd 3a0a8cbd
+$ ls
+
+$ cd ..
+$ cd 0bb6de2b
+$ ls
+
+$ cd ..
+$ cd ..
+$ cd 84f9838a
+$ ls
+(d)e21bacd1 (f)6ca0c459.txt (f)cc573c33.txt (d)8c82ef1a (f)490d7472.txt (d)358bfe73 (f)04631474.txt
+$ cd e21bacd1
+$ ls
+
+$ cd ..
+$ cd 358bfe73
+$ ls
+
+$ cd ..
+$ cd ..
+$ cd 3c8ade70
+$ ls
+(f)8fcd87bc.txt (f)fb1f3cbe.txt (d)73ff2f34 (d)e31faa0e (f)6b8475ce.txt (d)55715a18
+$ cd 73ff2f34
+$ cd ..
+$ cd e31faa0e
+$ cd ..
+$ cd 55715a18
+$ ls
+
+$ cd ..
+$ cd ..
+$ cd ..
+$ cd ..
+$ cd 06a1b7fe
+$ ls
+(d)3edaf0ed (d)51c500e4 (d)566d9667 (f)7e7d77ef.txt (f)29a42ef3.txt (f)4619679c.txt
+$ cd 3edaf0ed
+$ ls
+(f)4321c21e.txt (d)5a1dfce9 (d)07bdf971 (f)9a92e3e4.txt (d)e43d504d (f)7f507a62.txt
+$ cd 5a1dfce9
+$ ls
+(f)80501d59.txt (d)6f9c7fd6 (d)8b467186 (f)3ecba055.txt (f)ec1a858a.txt (d)a97499b3
+$ cd 6f9c7fd6
+$ ls
+
+$ cd ..
+$ cd 8b467186
+$ ls
+
+$ cd ..
+$ cd a97499b3
+$ ls
+(f)8680c90b.txt
+$ cd ..
+$ cd ..
+$ cd 07bdf971
+$ cd ..
+$ cd e43d504d
+$ ls
+(f)43964d48.txt (d)8dd9224c (d)f7c7e70b (f)ba92142b.txt (d)edf4e536 (f)2fde0ea9.txt
+$ cd 8dd9224c
+$ ls
+
+$ cd ..
+$ cd f7c7e70b
+$ ls
+
+$ cd ..
+$ cd edf4e536
+$ ls
+
+$ cd ..
+$ cd ..
+$ cd ..
+$ cd 51c500e4
+$ cd ..
+$ cd 566d9667
+$ ls
+(d)cd0bfa1a (f)c2e2706a.txt (f)3021c9a4.txt (d)62dcccdd (f)b62e9d55.txt (d)f5e3eef4
+$ cd cd0bfa1a
+$ ls
+(d)7d6a85c5 (d)bd3cabc4 (f)d3076b78.txt (d)342c8d78 (f)e895d3d0.txt (f)3f6e9125.txt
+$ cd bd3cabc4
+$ ls
+
+$ cd ..
+$ cd 342c8d78
+$ cd ..
+$ cd ..
+$ cd 62dcccdd
+$ ls
+(f)2dc916ca.txt (f)e85e4f0d.txt (d)9d0976ea (d)bf6ee97d (d)6ed24a3a (f)0edc6ec1.txt
+$ cd 9d0976ea
+$ ls
+(f)80501d59.txt
+$ cd ..
+$ cd bf6ee97d
+$ ls
+
+$ cd ..
+$ cd ..
+$ cd ..
+$ cd ..
+$ cd ..
+$ cd 6b945a0e
+$ cd ..
+$ cd c935d87e
